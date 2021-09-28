@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="container">
+        
+        <footer>
+          This project was coded by{" "}
+          <a
+            href="https://www.linkedin.com/in/anastasiia-sherstobitova-4911971b0/"
+            target="_blank"
+            rel=" noreferrer"
+          >
+            Anastasiia Sherstobitova
+          </a>{" "}
+          and is{" "}
+          <a href="https://github.com/" target="_blank" rel="noreferrer">
+            open-sourced on GitHub
+          </a>{" "}
+        </footer>
+      </div>
     </div>
   );
 }
-
 export default App;
+//default city
