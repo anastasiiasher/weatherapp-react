@@ -1,0 +1,7 @@
+.Weather{
+    border: 1px solid #dadde1;
+}
+.Weather li{
+    list-style: none;
+    text-align: center;
+}
