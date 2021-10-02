@@ -17,7 +17,11 @@ function App() {
             Anastasiia Sherstobitova
           </a>{" "}
           and is{" "}
-          <a href="https://github.com/" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/anastasiiasher/weatherapp-react"
+            target="_blank"
+            rel="noreferrer"
+          >
             open-sourced on GitHub
           </a>{" "}
         </footer>
