@@ -7,3 +7,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+h1, p, ul, li {
+  color: white;
+}
+h1{
+  font-family: 'Press Start 2P', cursive;
+}
+div{
+  font-family: 'Unica One', cursive;
+}

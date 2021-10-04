@@ -12,7 +12,7 @@
 .Weather li{
     list-style: none;
     text-align: center;
-    color: #878787;
+    color: white;
     font-size: 16px;
     line-height: 19px;
     font-weight: 100;
@@ -22,7 +22,7 @@
     padding: 0;
 }
 .Weather h1{
-    color: #878787;
+    color: white;
     display: block;
     margin:20px 0 0;
     font-weight: 100;
@@ -44,4 +44,15 @@
     font-weight: bold;
     font-size: 56px;
     font-weight: 400;
+}
+.Weather .btn-primary{
+  background: radial-gradient(circle at 12.3% 19.3%, rgb(85, 88, 218) 0%, rgb(95, 209, 249) 100.2%);
+}
+
+div{
+    color: white;
+}
+.WeatherInfo h1{
+    text-shadow: 5px 5px 10px rgba(234, 72, 247, 0.4);
+    color: white;
 }

@@ -1,0 +1,7 @@
+.big:hover{
+    font-size: larger;
+    background: transparent;
+    border-radius: 27px;
+    border:1px solid white;
+    
+}
