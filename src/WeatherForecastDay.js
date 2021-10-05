@@ -15,13 +15,10 @@ export default function WeatherForecastDay(props) {
   }
 
   return (
-      <div className="row">
-       <div className="big col-sm-6">
+    <div className="big">
       <div> {day()} </div>
       <WeatherIcon code={props.data.weather[0].icon} size={45} />
       <div> {temp()} °C </div>
-    </div>   
-      </div>
-    
+    </div>
   );
 }
