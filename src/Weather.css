@@ -35,10 +35,10 @@
     display: inline-block;
 }
 .Weather .unit{
-    font-size: 16px;
+    font-size: 36px;
     font-weight: 400;
     position: relative;
-    top: -32px;
+    top: -10px;
 }
 .Weather .temperature{
     font-weight: bold;
